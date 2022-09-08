@@ -1,5 +1,5 @@
 +++
-title = "Making Memes"
+title = "創造迷因"
 date = "2021-10-22"
 type = "how-to"
 
@@ -7,14 +7,14 @@ type = "how-to"
   name = "Dogecoin"
 +++
 
-Memes are awesome, and they’re easy to make! There’s lots of meme maker websites, and even meme applications that you can install on your smartphone to makes memes on the run. You may even go one step further and create Dogecoin-themed meme templates which have a possibility of being seen by millions of others.  
+迷因很棒而且容易就能做出來！有很多迷因製造機網站，甚至是讓您能隨時隨地製作迷因的智慧型手機應用程式。您也能夠建立以狗狗幣為主題的迷因樣板，這些樣板可能會被數百萬人看到。
 
-What makes a great meme? Well, it needs to be funny and convey meaning in a concise and relatable form. Moreover, capturing the sentiment of a community – or peoples’ innermost thoughts and feelings that are not shared publicly – can form a great basis from which to create highly engaging and novel memes. The power of memes also comes from their accessibility and ability to be viewed by millions in a relatively short of amount of time.  
+什麼是偉大的迷因？嗯，它需要有趣並以簡潔和相關的形式傳達一件事。此外，捕捉社區的情緒——或人們不公開分享的內心想法和感受——可以為創造高度參與和新穎的迷因奠定良好的基礎。迷因的力量還來自於它們的可得性，和在相對較短的時間內被數百萬人觀看的能力。
 
 ![image info](/assets/images/dogepedia/1.png)
 
-The content of great memes can vary widely, but they always consist of a combination of at least one image and a small amount of text. It’s a great idea to check-out popular memes from the past for inspiration, and to identify common characteristics as to what makes them great.  
+偉大迷因的內容可能千差萬別，但它們總是由至少一張圖片和少量文字的組合而成的。您可以翻看過去流行的迷因以獲得靈感，並歸納出讓它們看起來很棒的特徵。
 
-It’s important to never diminish the potential impact of a good meme. A well-crafted meme can help to shape peoples’ feelings and beliefs, and – dare we say – even form the basis for a popular cryptocurrency! Plus, memes make people laugh and smile, and help to foster a feeling of belonging by people the world over, which in and of itself a noble and worthwhile endeavour. 
+永遠不要削弱一個好的迷因的潛在影響，這一點很重要。精心製作的迷因可以幫助塑造人們的感受和信念，而且——我們敢說——這甚至是讓一個加密貨幣能夠流行起來的基礎！此外，迷因使人們開懷大笑，並有助於培養全世界人們的歸屬感，這本身就是一項崇高而有價值的事。
 
-As always, the best guide to making memes is to actually give it a go. Make a meme today and share it on social media! 
+與往常一樣，製作迷因的最佳指南是實際嘗試一下。馬上開始製作一個迷因並在社交媒體上分享吧！

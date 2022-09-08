@@ -1,5 +1,5 @@
 +++
-title = "Operate a Dogecoin Node"
+title = "運行一個節點"
 date = "2021-10-22"
 type = "how-to"
 
@@ -7,4 +7,4 @@ type = "how-to"
   name = "Dogecoin"
 +++
 
-A guide for Dogecoin Node operators.
+狗狗幣節點營運指南。
